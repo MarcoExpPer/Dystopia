@@ -1,0 +1,27 @@
+{
+  "name": "dvi-2122",
+  "version": "1.0.0",
+  "description": "Proyecto para la asignatura de DVI",
+  "scripts": {
+    "start": "npx parcel --no-cache index.html",
+    "test-gen": "npx parcel --no-cache testGen.html",
+    "build": "npx parcel build --no-cache index.html testGen.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniUCM/DVI-2122.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaniUCM/DVI-2122/issues"
+  },
+  "dependencies": {
+    "easystarjs": "^0.4.4",
+    "phaser": "^3.55.2",
+    "phaser-animated-tiles": "^2.0.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.1"
+  }
+}
