@@ -1,5 +1,8 @@
 # Dystopia
 
+## Enlace a la página pública del juego
+https://marcoexpper.github.io/Dystopia/
+
 ## Captura de pantalla del juego
 ![image](https://user-images.githubusercontent.com/74597379/166720520-6f060f59-9fff-4a74-99fb-f1a2fe83e66e.png)
 
@@ -10,10 +13,6 @@ DaniUCM -> Daniel Marín Irún
 DavidLLM -> David Llanes Martín  
 manuespi -> Manuel Espinosa Guerra  
 Markines16 -> Marco Expósito Pérez  
-
-
-## Enlace a la página pública del juego
-https://daniucm.github.io/DVI-2122/
 
 ## GDD Extendido
 ### Género
