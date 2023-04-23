@@ -3,7 +3,7 @@
  */
 export default class GameState {
 
-  constructor() {}
+  constructor() { }
 
   saveGame(values) {
     localStorage.setItem('saveFile' + values.saveslot, JSON.stringify(values));
@@ -36,7 +36,7 @@ export default class GameState {
     newFile.isnewgame = true;
 
     // Player Options
-    newFile.sound = 5;
+    newFile.sound = 1;
     newFile.textSpeed = 35;
     newFile.chestAnimations = true;
 
